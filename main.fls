@@ -1,0 +1,121 @@
+PWD /Users/menteadmin/Documents/01_Works/13_MasterWork/00_general/tex
+INPUT /usr/local/texlive/2016/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf.cnf
+INPUT /usr/local/texlive/2016/texmf-var/web2c/euptex/uplatex.fmt
+INPUT main.tex
+OUTPUT main.log
+INPUT /usr/local/texlive/2016/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /usr/local/texlive/2016/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT iapaper.sty
+INPUT iapaper.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/dvipdfmx-def/dvipdfmx.def
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/here/here.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/here/here.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+INPUT main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+OUTPUT main.dvi
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT main.toc
+INPUT main.toc
+OUTPUT main.toc
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
+INPUT ./images/research_amazon.jpg
+INPUT extractbb -O ./images/research_amazon.jpg
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+INPUT ./images/bitblend.png
+INPUT extractbb -O ./images/bitblend.png
+INPUT ./images/localize_search.jpg
+INPUT extractbb -O ./images/localize_search.jpg
+INPUT ./images/yahoo_watav.jpg
+INPUT extractbb -O ./images/yahoo_watav.jpg
+INPUT ./images/livingarea_diagram.png
+INPUT extractbb -O ./images/livingarea_diagram.png
+INPUT ./images/system.png
+INPUT extractbb -O ./images/system.png
+INPUT ./images/system_result.jpg
+INPUT extractbb -O ./images/system_result.jpg
+INPUT ./images/mbs_top.jpg
+INPUT extractbb -O ./images/mbs_top.jpg
+INPUT ./images/mbs_facility.jpg
+INPUT extractbb -O ./images/mbs_facility.jpg
+INPUT ./images/mbs_eq.jpg
+INPUT extractbb -O ./images/mbs_eq.jpg
+INPUT ./images/mbs_flood.jpg
+INPUT extractbb -O ./images/mbs_flood.jpg
+INPUT ./images/mbs_sediment.jpg
+INPUT extractbb -O ./images/mbs_sediment.jpg
+INPUT ./images/kamakura_01.jpg
+INPUT extractbb -O ./images/kamakura_01.jpg
+INPUT ./images/kamakura_02.jpg
+INPUT extractbb -O ./images/kamakura_02.jpg
+INPUT ./images/kamakura_questionnaire.jpg
+INPUT extractbb -O ./images/kamakura_questionnaire.jpg
+INPUT ./images/mbn_questionnaire.jpg
+INPUT extractbb -O ./images/mbn_questionnaire.jpg
+INPUT ./images/curation_scraping_list.jpg
+INPUT extractbb -O ./images/curation_scraping_list.jpg
+INPUT ./images/curation_scraping_article.jpg
+INPUT extractbb -O ./images/curation_scraping_article.jpg
+INPUT ./images/curation_home.png
+INPUT extractbb -O ./images/curation_home.png
+INPUT ./images/curation_article.png
+INPUT extractbb -O ./images/curation_article.png
+INPUT ./images/curation_favo_list.jpg
+INPUT extractbb -O ./images/curation_favo_list.jpg
+INPUT ./images/curation_search.png
+INPUT extractbb -O ./images/curation_search.png
+INPUT ./images/curation_02_result.jpg
+INPUT extractbb -O ./images/curation_02_result.jpg
+INPUT ./images/curation_03_result.jpg
+INPUT extractbb -O ./images/curation_03_result.jpg
+INPUT main.aux
