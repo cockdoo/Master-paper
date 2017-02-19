@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1485321583 "main.dvi" "main.pdf" "main" 1485321585
-  "main.dvi" 1485321583 151740 37ae73876afa247cedcc298ff12fde47 "latex"
+["dvipdf"] 1487496523 "main.dvi" "main.pdf" "main" 1487496606
+  "main.dvi" 1487496523 151544 a78d69d6f3d208981bf3092c23c660fd "latex"
   (generated)
   "main.pdf"
-["latex"] 1485321580 "main.tex" "main.dvi" "main" 1485321585
+["latex"] 1487496521 "main.tex" "main.dvi" "main" 1487496606
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -87,11 +87,11 @@
   "images/system.png" 1485262789 27018 7565392666357d0b921277adc6188670 ""
   "images/system_result.jpg" 1485307137 44371 526e4932d72eada8926209baa554a361 ""
   "images/yahoo_watav.jpg" 1485126274 389367 34468d9a0b2b5735e90a51f72d4b5fe7 ""
-  "main.aux" 1485321583 10254 5ecc03f381278f8b8a714a8987e0d074 ""
-  "main.tex" 1485321580 119721 fc0b2f5d61b0a06fb1a3cdd48a551dc5 ""
-  "main.toc" 1485321583 2648 58ff0a96ab420538e8b2760d785f9aa0 ""
+  "main.aux" 1487496523 10254 5ecc03f381278f8b8a714a8987e0d074 ""
+  "main.tex" 1487496606 119912 1cb5e4625817eea308acff6de03e8260 ""
+  "main.toc" 1487496523 2648 58ff0a96ab420538e8b2760d785f9aa0 ""
   (generated)
   "main.aux"
-  "main.toc"
-  "main.log"
   "main.dvi"
+  "main.log"
+  "main.toc"
