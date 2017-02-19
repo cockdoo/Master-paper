@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  19 FEB 2017 18:35
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2016.5.22)  19 FEB 2017 20:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -464,7 +464,7 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 124.
- [4] [5]
+ [4]
 ./main.tex:174: Undefined control sequence.
 l.174 \fifigure
                
@@ -486,7 +486,7 @@ l.182 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
-[6]
+[5] [6]
 ./main.tex:214: Undefined control sequence.
 l.214 \fifigure
                
@@ -588,9 +588,14 @@ l.448 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
-[15] [16] [17] [18]
-./main.tex:595: Undefined control sequence.
-l.595 \fifigure
+[15] [16] [17]
+Overfull \hbox (10.19234pt too wide) in paragraph at lines 552--568
+ [][][] 
+ []
+
+[18]
+./main.tex:592: Undefined control sequence.
+l.592 \fifigure
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -602,14 +607,14 @@ File: ./images/mbs_top.jpg Graphic file (type bmp)
 <./images/mbs_top.jpg>
 File: ./images/mbs_facility.jpg Graphic file (type bmp)
  <./images/mbs_facility.jpg>
-./main.tex:611: Extra \fi.
-l.611 \fi
+./main.tex:608: Extra \fi.
+l.608 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
 [19]
-./main.tex:613: Undefined control sequence.
-l.613 \fifigure
+./main.tex:610: Undefined control sequence.
+l.610 \fifigure
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -623,14 +628,14 @@ File: ./images/mbs_flood.jpg Graphic file (type bmp)
  <./images/mbs_flood.jpg>
 File: ./images/mbs_sediment.jpg Graphic file (type bmp)
  <./images/mbs_sediment.jpg>
-./main.tex:634: Extra \fi.
-l.634 \fi
+./main.tex:631: Extra \fi.
+l.631 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
 [20] [21]
-./main.tex:688: Undefined control sequence.
-l.688 \fifigure
+./main.tex:685: Undefined control sequence.
+l.685 \fifigure
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -642,18 +647,18 @@ File: ./images/kamakura_01.jpg Graphic file (type bmp)
 <./images/kamakura_01.jpg>
 File: ./images/kamakura_02.jpg Graphic file (type bmp)
  <./images/kamakura_02.jpg>
-Overfull \hbox (24.0pt too wide) in paragraph at lines 691--700
+Overfull \hbox (24.0pt too wide) in paragraph at lines 688--697
  [][][] 
  []
 
-./main.tex:704: Extra \fi.
-l.704 \fi
+./main.tex:701: Extra \fi.
+l.701 \fi
          
 I'm ignoring this; it doesn't match any \if.
 
 [22]
-./main.tex:776: Undefined control sequence.
-l.776   \fifigure
+./main.tex:773: Undefined control sequence.
+l.773   \fifigure
                  
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -663,28 +668,28 @@ and I'll forget about whatever was undefined.
 
 File: ./images/kamakura_questionnaire.jpg Graphic file (type bmp)
 <./images/kamakura_questionnaire.jpg>
-./main.tex:784: Extra \fi.
-l.784   \fi
+./main.tex:781: Extra \fi.
+l.781   \fi
            
 I'm ignoring this; it doesn't match any \if.
 
 [23] [24]
 
-./main.tex:820: LaTeX Error: \begin{enumerate} on input line 709 ended by \end{itemize}.
+./main.tex:817: LaTeX Error: \begin{enumerate} on input line 706 ended by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.820 \end{itemize}
+l.817 \end{itemize}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [25]
-./main.tex:869: Undefined control sequence.
-l.869     \fifigure
+./main.tex:866: Undefined control sequence.
+l.866     \fifigure
                    
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -694,28 +699,28 @@ and I'll forget about whatever was undefined.
 
 File: ./images/mbn_questionnaire.jpg Graphic file (type bmp)
 <./images/mbn_questionnaire.jpg>
-./main.tex:877: Extra \fi.
-l.877     \fi
+./main.tex:874: Extra \fi.
+l.874     \fi
              
 I'm ignoring this; it doesn't match any \if.
 
-[26] [27]
+[26]
 
-./main.tex:928: LaTeX Error: \begin{enumerate} on input line 827 ended by \end{itemize}.
+./main.tex:924: LaTeX Error: \begin{enumerate} on input line 824 ended by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.928   \end{itemize}
+l.924   \end{itemize}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[28] [29]
-./main.tex:992: Undefined control sequence.
-l.992 \fifigure
+[27] [28] [29]
+./main.tex:984: Undefined control sequence.
+l.984 \fifigure
                
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -725,14 +730,14 @@ and I'll forget about whatever was undefined.
 
 File: ./images/curation_scraping_list.jpg Graphic file (type bmp)
 <./images/curation_scraping_list.jpg>
-./main.tex:1000: Extra \fi.
-l.1000 \fi
-          
+./main.tex:992: Extra \fi.
+l.992 \fi
+         
 I'm ignoring this; it doesn't match any \if.
 
-./main.tex:1002: Undefined control sequence.
-l.1002 \fifigure
-                
+./main.tex:994: Undefined control sequence.
+l.994 \fifigure
+               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -741,14 +746,14 @@ and I'll forget about whatever was undefined.
 
 File: ./images/curation_scraping_article.jpg Graphic file (type bmp)
 <./images/curation_scraping_article.jpg>
-./main.tex:1010: Extra \fi.
-l.1010 \fi
+./main.tex:1002: Extra \fi.
+l.1002 \fi
           
 I'm ignoring this; it doesn't match any \if.
 
 [30] [31]
-./main.tex:1087: Undefined control sequence.
-l.1087 \fifigure
+./main.tex:1079: Undefined control sequence.
+l.1079 \fifigure
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -760,14 +765,14 @@ File: ./images/curation_home.png Graphic file (type bmp)
 <./images/curation_home.png>
 File: ./images/curation_article.png Graphic file (type bmp)
  <./images/curation_article.png>
-./main.tex:1103: Extra \fi.
-l.1103 \fi
+./main.tex:1095: Extra \fi.
+l.1095 \fi
           
 I'm ignoring this; it doesn't match any \if.
 
 [32]
-./main.tex:1105: Undefined control sequence.
-l.1105 \fifigure
+./main.tex:1097: Undefined control sequence.
+l.1097 \fifigure
                 
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -779,14 +784,14 @@ File: ./images/curation_favo_list.jpg Graphic file (type bmp)
 <./images/curation_favo_list.jpg>
 File: ./images/curation_search.png Graphic file (type bmp)
  <./images/curation_search.png>
-./main.tex:1121: Extra \fi.
-l.1121 \fi
+./main.tex:1113: Extra \fi.
+l.1113 \fi
           
 I'm ignoring this; it doesn't match any \if.
 
 [33] [34] [35]
-./main.tex:1235: Undefined control sequence.
-l.1235   \fifigure
+./main.tex:1228: Undefined control sequence.
+l.1228   \fifigure
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -796,14 +801,14 @@ and I'll forget about whatever was undefined.
 
 File: ./images/curation_02_result.jpg Graphic file (type bmp)
 <./images/curation_02_result.jpg>
-./main.tex:1243: Extra \fi.
-l.1243   \fi
+./main.tex:1236: Extra \fi.
+l.1236   \fi
             
 I'm ignoring this; it doesn't match any \if.
 
 [36]
-./main.tex:1255: Undefined control sequence.
-l.1255   \fifigure
+./main.tex:1247: Undefined control sequence.
+l.1247   \fifigure
                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -813,13 +818,13 @@ and I'll forget about whatever was undefined.
 
 File: ./images/curation_03_result.jpg Graphic file (type bmp)
 <./images/curation_03_result.jpg>
-./main.tex:1263: Extra \fi.
-l.1263   \fi
+./main.tex:1255: Extra \fi.
+l.1255   \fi
             
 I'm ignoring this; it doesn't match any \if.
 
 [37] [38] [39] [40] [41] [42]
-Underfull \hbox (badness 10000) in paragraph at lines 1451--1454
+Underfull \hbox (badness 10000) in paragraph at lines 1443--1446
 \OT1/cmr/m/n/12 70-brands-personalizing-emails-missing-higher-transaction-rates-revenue-73241\JY2/mc/m/n/12 ，
  []
 
@@ -827,10 +832,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 1451--1454
 Here is how much of TeX's memory you used:
  1168 strings out of 493689
  16203 string characters out of 6149981
- 78949 words of memory out of 5000000
+ 77949 words of memory out of 5000000
  4729 multiletter control sequences out of 15000+600000
  13029 words of font info for 62 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
  27i,10n,21p,1301b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (50 pages, 149096 bytes).
+Output written on main.dvi (50 pages, 148424 bytes).

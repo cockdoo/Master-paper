@@ -5,7 +5,7 @@
 \contentsline {subsection}{\numberline {1.2}背景}{2}
 \contentsline {subsection}{\numberline {1.3}本研究の目的}{4}
 \contentsline {subsection}{\numberline {1.4}本論文の構成}{4}
-\contentsline {section}{\numberline {2}先行研究・先行事例}{5}
+\contentsline {section}{\numberline {2}先行研究・先行事例}{4}
 \contentsline {subsection}{\numberline {2.1}Webサービスにおけるパーソナライズ}{5}
 \contentsline {subsection}{\numberline {2.2}ユーザの位置情報を活用したパーソナライズ}{6}
 \contentsline {subsection}{\numberline {2.3}生活地域の選択によるコンテンツのカスタマイズ}{9}
@@ -16,8 +16,8 @@
 \contentsline {subsection}{\numberline {3.2}精度の検証}{13}
 \contentsline {section}{\numberline {4}ハザードマップアプリにおけるパーソナライズ}{16}
 \contentsline {subsection}{\numberline {4.1}ハザードマップアプリの概要と開発の目的}{16}
-\contentsline {subsection}{\numberline {4.2}アプリケーションの概要}{16}
-\contentsline {subsubsection}{\numberline {4.2.1}利用データの設計}{16}
+\contentsline {subsection}{\numberline {4.2}アプリケーションの概要}{17}
+\contentsline {subsubsection}{\numberline {4.2.1}利用データの設計}{17}
 \contentsline {subsubsection}{\numberline {4.2.2}画面構成・システム構成}{18}
 \contentsline {subsection}{\numberline {4.3}実証実験}{20}
 \contentsline {subsubsection}{\numberline {4.3.1}実験の概要}{21}
@@ -25,7 +25,7 @@
 \contentsline {subsection}{\numberline {4.4}アプリ公開後の評価}{25}
 \contentsline {subsection}{\numberline {4.5}考察}{28}
 \contentsline {section}{\numberline {5}キュレーションアプリにおけるパーソナライズ}{28}
-\contentsline {subsection}{\numberline {5.1}キュレーションアプリの概要と開発の目的}{29}
+\contentsline {subsection}{\numberline {5.1}キュレーションアプリの概要と開発の目的}{28}
 \contentsline {subsection}{\numberline {5.2}利用データの設計}{29}
 \contentsline {subsection}{\numberline {5.3}画面構成・システム構成}{31}
 \contentsline {subsection}{\numberline {5.4}アプリ公開後の評価}{34}

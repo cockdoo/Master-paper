@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1487496927 "main.dvi" "main.pdf" "main" 1487496930
-  "main.dvi" 1487496927 149096 b53f7624a33506e37e4dd4f2ab30e470 "latex"
+["dvipdf"] 1487502003 "main.dvi" "main.pdf" "main" 1487502005
+  "main.dvi" 1487502003 148424 ae8f9c71a053590150ae27d5e7a816c5 "latex"
   (generated)
   "main.pdf"
-["latex"] 1487496925 "main.tex" "main.dvi" "main" 1487496930
+["latex"] 1487502000 "main.tex" "main.dvi" "main" 1487502005
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -64,8 +64,8 @@
   "extractbb -O ./images/yahoo_watav.jpg" 0 -1 0 ""
   "iapaper.sty" 1484564729 2784 fa19b7bb8806e58504ee60986cde618e ""
   "images/bitblend.png" 1485007543 115324 c1e01285f02341634992a8cc49fedd84 ""
-  "images/curation_02_result.jpg" 1485307397 27983 a09c9c32ec7403aaaab849e466599007 ""
-  "images/curation_03_result.jpg" 1485307415 33793 26d4cb728726570604cdb11dd4de24ac ""
+  "images/curation_02_result.jpg" 1487501894 80948 1bf8ae87d5ae591ca48a2281c7e56e1e ""
+  "images/curation_03_result.jpg" 1487501938 85330 c6837c9b322c788a117fec4236f0d807 ""
   "images/curation_article.png" 1485306853 152712 f45b935a419d986ba9bfeeb1069f8bdc ""
   "images/curation_favo_list.jpg" 1483938739 123043 d0f8b9bf82eccf3c92212e4722df06b2 ""
   "images/curation_home.png" 1485310213 298035 6f6f916ef62794f32102974d152a4dba ""
@@ -87,11 +87,11 @@
   "images/system.png" 1485262789 27018 7565392666357d0b921277adc6188670 ""
   "images/system_result.jpg" 1485307137 44371 526e4932d72eada8926209baa554a361 ""
   "images/yahoo_watav.jpg" 1485126274 389367 34468d9a0b2b5735e90a51f72d4b5fe7 ""
-  "main.aux" 1487496927 9639 050ad6d87f2e594341b7a2820463e7b3 ""
-  "main.tex" 1487496922 117736 910e2a46ffa7f30e5e07b8767a61a79a ""
-  "main.toc" 1487496927 2648 7bd89ae35c6e513fdd2d29da3e5bc741 ""
+  "main.aux" 1487502003 9639 f2b4ec4fca967b491dbe37a78c7b9d57 ""
+  "main.tex" 1487502000 116280 5c1617c275e38418fff4389277366b91 ""
+  "main.toc" 1487502003 2648 2a16d69c5f0ad3ce6de8e52949d87721 ""
   (generated)
-  "main.toc"
   "main.aux"
-  "main.log"
   "main.dvi"
+  "main.log"
+  "main.toc"
